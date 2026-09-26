@@ -15,7 +15,9 @@ body{
     align-items: center;     
     flex-direction: column;
 }
-
+.pepita{
+  color: #03fc20;
+}
 h1{
   color: #34d346; font-family: monospace;
 }
