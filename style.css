@@ -16,16 +16,19 @@ body{
     flex-direction: column;
 }
 .pepita{
-  color: #03fc20;
+  color: #34d346; font-family: monospace;
+    text-shadow: 0 0 5px #34d346, 0 0 10px #34d346, 0 0 20px #34d346, 0 0 40px #34d346
 }
 h1{
   color: #34d346; font-family: monospace;
+    text-shadow: 0 0 5px #34d346, 0 0 10px #34d346, 0 0 20px #34d346, 0 0 40px #34d346
 }
 li{
   color: #34d346; font-family: monospace;
 }
 h2{
   color: #34d346; font-family: monospace;
+    text-shadow: 0 0 5px #34d346, 0 0 10px #34d346, 0 0 20px #34d346, 0 0 40px #34d346
 }
 p{
   color: #34d346; font-family: monospace;
