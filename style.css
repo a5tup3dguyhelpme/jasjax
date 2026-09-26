@@ -18,7 +18,7 @@ body{
 .pepita{
   color: #03fc20;
 }
-h1{
+h1, h6{
   color: #34d346; font-family: monospace;
 }
 li{
