@@ -18,7 +18,7 @@ body{
 .pepita{
   color: #03fc20;
 }
-h1, h6{
+h1{
   color: #34d346; font-family: monospace;
 }
 li{
@@ -42,3 +42,6 @@ button{
 div{
   background-color: black; border: 1px white solid; border-radius: 9px 0 9px 0; max-width: 400px;  width: 90%; overflow-wrap: break-word; white-space: normal;
   }
+h6{
+  color: #34d346; font-family: monospace;
+}
