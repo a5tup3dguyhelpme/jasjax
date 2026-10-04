@@ -18,14 +18,17 @@ body{
 h6{
   color: #34d346; font-family: kostas, monospace;
 }
+
 h1{
   color: #34d346; font-family: monospace;
+    text-shadow: 0 0 5px #34d346, 0 0 10px #34d346, 0 0 20px #34d346, 0 0 40px #34d346
 }
 li{
   color: #34d346; font-family: monospace;
 }
 h2{
   color: #34d346; font-family: monospace;
+    text-shadow: 0 0 5px #34d346, 0 0 10px #34d346, 0 0 20px #34d346, 0 0 40px #34d346
 }
 p{
   color: #34d346; font-family: monospace;
@@ -42,10 +45,3 @@ button{
 div{
   background-color: black; border: 1px white solid; border-radius: 9px 0 9px 0; max-width: 400px;  width: 90%; overflow-wrap: break-word; white-space: normal;
   }
-@font-face{
-  font-famiy: kostas;
-  src: url(fuentes/kostas.ttf) format("opentype");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
