@@ -16,11 +16,11 @@ body{
     text-align: center; 
 }
 h6{
-  color: #34d346; font-family: kostas, monospace;
+  color: #34d346; font-family: 'Kostas', monospace;
 }
 
 h1{
-  color: #34d346; font-family: monospace;
+  color: #34d346; font-family: 'Kostas', monospace;
     text-shadow: 0 0 5px #34d346, 0 0 10px #34d346, 0 0 20px #34d346, 0 0 40px #34d346
 }
 li{
