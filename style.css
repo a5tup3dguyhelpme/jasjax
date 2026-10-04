@@ -47,7 +47,7 @@ div{
   }
 @font-face {
   font-family: 'Kostas';
-  src: url('fuentes/Kostas.otf') format('opentype');
+  src: url('Kostas.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
